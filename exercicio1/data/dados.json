@@ -1,0 +1,54 @@
+{
+    "selecione":
+    [
+        {
+            "id": 1,
+            "opcoes":"MG"
+		},
+		{
+            "id": 2,
+            "opcoes":"SP"
+		},
+		{
+            "id": 3,
+            "opcoes":"RJ"
+		},
+		{
+            "id": 4,
+            "opcoes":"RS"
+		},
+		{
+            "id": 5,
+            "opcoes":"BA"
+		},
+		{
+            "id": 6,
+            "opcoes":"ES"
+		},
+		{
+            "id": 7,
+            "opcoes":"SC"
+		},
+		{
+            "id": 8,
+            "opcoes":"RN"
+		},
+		{
+            "id": 9,
+            "opcoes":"TO"
+		},
+		{
+            "id": 10,
+            "opcoes":"GO"
+		},
+		{
+            "id": 11,
+            "opcoes":"MS"
+		},
+		{
+            "id": 12,
+            "opcoes":"MA"
+		}
+		
+    ]
+}
